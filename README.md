@@ -35,7 +35,7 @@
 ### 📊 My Github Stats
 ![Celzii's GitHub stats](https://github-readme-stats.vercel.app/api?username=celzii&theme=jolly)<br/>
 
-![Streak](https://nirzak-streak-stats.vercel.app/?user=Celzii&theme=jolly&hide_border=false)<br/>
+![Streak](https://nirzak-streak-stats.vercel.app/?user=Celzii&theme=jolly&hide_border=false)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=celzii&theme=jolly)<br/>
 
