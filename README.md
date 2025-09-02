@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on....
 
 <p align="center">
-  <img src="img/nyan cat banner.gif" alt="Nyan Cat Banner" width="1000" />
+  <img src="img/nyan cat banner.gif" alt="Nyan Cat Banner" width="1000" height="80"/>
 </p>
 
 
