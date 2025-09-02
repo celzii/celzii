@@ -1,4 +1,4 @@
-## Hi! Welcome Babe👋
+<!-- ## Hi! Welcome Babe👋 -->
 
 ![Celzi Banner](img/github%20banner%20celzi.png)
 
@@ -19,7 +19,10 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on....
 
-![Pusheen](img/nyan%20cat%20banner.gif)
+<p align="center">
+  <img src="img/nyan cat banner.gif" alt="Nyan Cat Banner" width="1000" />
+</p>
+
 
 
 #### Find me here ✨
