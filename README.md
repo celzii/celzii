@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi! Welcome Babe👋
 
 <!--
 **celzii/celzii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on....
+
+![Pusheen](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTlvNDV5eHZtazVhbXprcXVhdDZla3VmYzI1YzV2d2luN2I3M3BkcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11YNFkQTCMgkxO/giphy.gif)
