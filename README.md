@@ -17,7 +17,7 @@
 - ⚡ Fun fact **I’m an IT student who loves mixing code with coffee ☕ + 💻.**
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&left_color=rebeccapurple&right_color=violet"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&left_color=rebeccapurple&right_color=violet"/>
 </div>
 
 ### 🌐 Tech Stack
@@ -32,7 +32,7 @@
   <img src="https://skillicons.dev/icons?i=instagram" width="50"/>
 </a>
 
-#### 📊 My Github Stats
+### 📊 My Github Stats
 ![Celzii's GitHub stats](https://github-readme-stats.vercel.app/api?username=celzii&theme=jolly)<br/>
 
 ![Streak](https://nirzak-streak-stats.vercel.app/?user=Celzii&theme=jolly&hide_border=false)<br/>
@@ -40,7 +40,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=celzii&theme=jolly)<br/>
 
 
-#### 🎶 Now Playing
+### 🎶 Now Playing
 <div align="center">
   <a href="https://open.spotify.com/user/4pu8zt8wx2oe0ghhxxp7cnbla">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=4pu8zt8wx2oe0ghhxxp7cnbla&count=1&unique=true" alt="Spotify recently played"  />
