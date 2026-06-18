@@ -33,12 +33,15 @@
 </a>
 
 ### 📊 My Github Stats
+<div align="center">
+
 ![Celzii's GitHub stats](https://github-readme-stats.vercel.app/api?username=celzii&theme=jolly)<br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=celzii&theme=jolly&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=celzii&theme=jolly&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)<br/>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=celzii&theme=jolly)<br/>
+</div>
 
 
 ### 🎶 Now Playing
