@@ -25,7 +25,7 @@
 
 
 ### 🌐 Find me here ✨
-<a href="www.linkedin.com/in/celzi1008">
+<a href="https://www.linkedin.com/in/celzi1008">
   <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
 <a href="https://instagram.com/celziiii">
@@ -35,7 +35,7 @@
 ### 📊 My Github Stats
 ![Celzii's GitHub stats](https://github-readme-stats.vercel.app/api?username=celzii&theme=jolly)<br/>
 
-![Streak](https://nirzak-streak-stats.vercel.app/?user=Celzii&theme=jolly&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com/?user=celzii&theme=jolly&hide_border=false)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=celzii&theme=jolly)<br/>
 
